@@ -38,7 +38,7 @@ jobs:
           cd github-actions-test
           git config user.name "alonboa"
           git config user.email "alon@boaideas.com"
-
+ 
           # git checkout -b test-action
   
           # touch new-file.sh
